@@ -1,15 +1,10 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "We are a bunch of researchers who decided to help small and medium businesses",
+  "text": "Large companies take advantage of AI tools to enhance their teams with inhouse builders, we aim to provide the same services for smaller businesses who could benefit from this technology but do not have the budget or the employees to do it.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
-    },
-    {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Why PalmAI?",
+      "content": "We create custom software for your business and we aim to match and beat the price of any of out competitors without sacrificing the quality of our models",
       "icon": "notes.svg"
     }
   ]
